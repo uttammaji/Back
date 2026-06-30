@@ -1,0 +1,23 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "The Backend devlopment revised ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uttammaji/Back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uttammaji/Back/issues"
+  },
+  "homepage": "https://github.com/uttammaji/Back#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
